@@ -1,0 +1,10 @@
+{
+    "cmake.sourceDirectory": "/home/coward/esp/Projects/ESP8266AliYun",
+    "files.associations": {
+        "app.h": "c",
+        "mqttbasedef.h": "c",
+        "event_groups.h": "c",
+        "freertos.h": "c",
+        "string.h": "c"
+    }
+}
